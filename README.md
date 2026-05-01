@@ -2,7 +2,8 @@
 
 Complete microservices system to manage phone number portability, product sales, payment processing, and customer service with artificial intelligence.
 
-**FOR SECURITY REASONS, THE COMPLETE PROJECT IS PRIVATE, BUT SELECTED SERVICES ARE SHOWCASED HERE AS PART OF MY PROFESSIONAL PORTFOLIO FOR JOB INTERVIEWS.**\
+**THE MAIN PROJECT HAS CHANGE FOR A MONOLITHIC ARCHITECTURE, THIS DEMO ONLY REMAINS AS PART OF MY PORTFOLIO**\
+
 - **[BOT SERVICE LINK](https://github.com/Shadowmataj/bot-service)**
 - **[PORTABILITIES SERVICE LINK](https://github.com/Shadowmataj/portability-portabilities-service)**
 - **[USERS SERVICE LINK](https://github.com/Shadowmataj/portability-user-service)**
